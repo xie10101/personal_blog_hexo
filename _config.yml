@@ -6,7 +6,7 @@
 title: 技术随笔
 subtitle: '记录技术点滴&学习&生活🔥'
 description: '分享前端开发技术'
-keywords:"[前端, JavaScript, TypeScript, React, Vue, Node.js]"
+keywords: "[前端, JavaScript, TypeScript, React, Vue, Node.js]"
 author: XIEX
 language: zh-CN
 timezone: Asia/beijing
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:["README.md", "CNAME"]
+skip_render: ["README.md", "CNAME"]
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -66,8 +66,8 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:技术:tech
-tag_map:前端:frontend
+category_map: 技术:tech
+tag_map: 前端:frontend
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
